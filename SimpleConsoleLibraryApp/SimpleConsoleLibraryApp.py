@@ -10,3 +10,4 @@ if 31 < user_age <= 100:
     print("Ya old...")
 if 100 < user_age:
     print("Dayum ya real old.")
+print("You've still got time. Life's short, don't waste it.")
